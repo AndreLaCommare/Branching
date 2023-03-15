@@ -2,6 +2,10 @@
 
 Git cheatsheet and branching example
 
+STUFF ADDED ON MAIN
+blah blah balah 
+
+
 ### Basic Commands
 
 * 'git init' -initialize local git repo
