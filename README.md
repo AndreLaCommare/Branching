@@ -2,6 +2,11 @@
 
 Git cheatsheet and branching example
 
+STUFF ADDED IN NEW BRANCH 
+bdsdsfej derpity doo
+
+
+
 ### Basic Commands
 
 * 'git init' -initialize local git repo
