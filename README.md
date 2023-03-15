@@ -9,8 +9,8 @@
 ### Information Commands
 * 'git staus' - show whether file is staged for commit
 *'git log' - show commit log
-* 'git log --onegit branch oneline' - show commit log (compact format)
-*'git confid -l' -list repo configuration
+* 'git log --oneline' - show commit log (compact format)
+*'git config -l' -list repo configuration
 
 
 
@@ -18,3 +18,9 @@
 *'git branch' -list local branches
 *'git branch branchName' - create new branch
 *'git checkout branchName' - swithc to branch branchName
+
+### Remote Commands
+*'git remote add origin repUrl' - create alias 'origin'
+* 'git push origin branchName' - push to remote branch
+* 'git push -u origin branchName' - push to remote branch branchName, making it the default remote
+
