@@ -1,5 +1,7 @@
 ## Git Branching
 
+Git cheatsheet and branching example
+
 ### Basic Commands
 
 * 'git init' -initialize local git repo
