@@ -2,8 +2,11 @@
 
 Git cheatsheet and branching example
 
+STUFF ADDED IN NEW BRANCH 
+bdsdsfej derpity doo
+
 STUFF ADDED ON MAIN
-blah blah balah 
+blah blah balah
 
 
 ### Basic Commands
