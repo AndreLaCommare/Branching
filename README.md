@@ -10,6 +10,7 @@
 * 'git staus' - show whether file is staged for commit
 *'git log' - show commit log
 * 'git log --onegit branch oneline' - show commit log (compact format)
+*'git confid -l' -list repo configuration
 
 
 
