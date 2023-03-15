@@ -27,6 +27,7 @@ blah blah balah
 *'git branch' -list local branches
 *'git branch branchName' - create new branch
 *'git checkout branchName' - swithc to branch branchName
+*'hit checkout -b branchName' - create and switch to branch 'branchName'
 
 ### Remote Commands
 *'git remote add origin repUrl' - create alias 'origin'
