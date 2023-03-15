@@ -9,4 +9,11 @@
 ### Information Commands
 * 'git staus' - show whether file is staged for commit
 *'git log' - show commit log
-* 'git log --online' - show commit log (compact format)
+* 'git log --onegit branch oneline' - show commit log (compact format)
+
+
+
+### Branching Commands
+*'git branch' -list local branches
+*'git branch branchName' - create new branch
+*'git checkout branchName' - swithc to branch branchName
